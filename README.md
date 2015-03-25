@@ -12,7 +12,7 @@ To suggest new additions or changes, please [open an issue](https://github.com/B
  - [Keen IO](https://keen.io/) - Analytics backend as a service.
  - [Prose IO](http://prose.io) - An editor for github markdown (useful for MVPs)
  - [QuickMVP](https://quickmvp.com) - Integrated landing page and Google Ads for rapid idea validation.
- - [SalesIntelligent](SalesIntelligent.com) - Sales prospecting automation software.
+ - [SalesIntelligent](https://SalesIntelligent.com) - Sales prospecting automation software.
  - [Slack](https://slack.com) - Team messaging, archiving and search with an automation api and bots.
  - [Stripe](https://stripe.com/) - Startup friendly payment processing with a powerful API.
  - [Zapier](https://zapier.com/) - Quick and easy API integration for stitching together MVPs or even production services.
