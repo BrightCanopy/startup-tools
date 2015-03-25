@@ -16,6 +16,7 @@ To suggest new additions or changes, please [open an issue](https://github.com/B
  - [Slack](https://slack.com) - Team messaging, archiving and search with an automation api and bots.
  - [Stripe](https://stripe.com/) - Startup friendly payment processing with a powerful API.
  - [Zapier](https://zapier.com/) - Quick and easy API integration for stitching together MVPs or even production services.
+ - [Zenefits](https://zenefits.com) - Health Insurance, Payroll, and other HR services.
 
 
 ## Other Lists
