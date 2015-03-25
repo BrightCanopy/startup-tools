@@ -10,6 +10,7 @@ To suggest new additions or changes, please [open an issue](https://github.com/B
  - [Groove](https://www.groovehq.com/) - Streamlined desk software with a scalable pricing model.
  - [Heroku](https://www.heroku.com) - Cloud hosting (Ruby  Java  Node.js  Python  PHP Clojure  Scala) with lifecycle management and many plug-ins.
  - [Keen IO](https://keen.io/) - Analytics backend as a service.
+ - [Prose IO](http://prose.io) - An editor for github markdown (useful for MVPs)
  - [QuickMVP](https://quickmvp.com) - Integrated landing page and Google Ads for rapid idea validation.
  - [Slack](https://slack.com) - Team messaging, archiving and search with an automation api and bots.
  - [Stripe](https://stripe.com/) - Startup friendly payment processing with a powerful API.
