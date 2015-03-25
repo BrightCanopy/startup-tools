@@ -1,6 +1,7 @@
 # startup-tools
-A list of companies and products that provide stuff specifically useful to startups and bootstrappers.
+A list of companies and products that provide products and services specifically useful to startups and bootstrappers.
 
+To suggest new additions or changes, please [open an issue](https://github.com/BrightCanopy/startup-tools/issues) or create a [pull request](https://github.com/BrightCanopy/startup-tools/compare). 
 
  - [Clerky](https://wwww.clerky.com/) - Incorporation services with a very specific focus on startups which may eventually be VC funded.
  - [DigitalOcean](https://wwwdigitalocean.com) - Cloud hosting based on Docker droplets.
