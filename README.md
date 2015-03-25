@@ -14,3 +14,12 @@ To suggest new additions or changes, please [open an issue](https://github.com/B
  - [Slack](https://slack.com) - Team messaging, archiving and search with an automation api and bots.
  - [Stripe](https://stripe.com/) - Startup friendly payment processing with a powerful API.
  - [Zapier](https://zapier.com/) - Quick and easy API integration for stitching together MVPs or even production services.
+
+
+## Other Lists
+
+Helpful folks have pointed me to other lists already out there. Here are the ones I know about.
+ - [HN Tools of The Trade, 2014 Edition](https://github.com/cjbarber/ToolsOfTheTrade)
+ - [Steve Blank's List](http://steveblank.com/tools-and-blogs-for-entrepreneurs/)
+ - [Inc's List](http://www.inc.com/jeff-haden/60-great-tools-and-resources-for-entrepreneurs-and-startups.html)
+ - [PBWorks List](http://startuptools.pbworks.com/w/page/17974963/FrontPage)
