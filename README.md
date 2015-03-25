@@ -1,5 +1,5 @@
 # startup-tools
-A list of companies and products that provide products and services specifically useful to startups and bootstrappers.
+A list of companies and products that provide products and services specifically useful to startups and bootstrappers. This is just a minimal start. Eventually this should be a long list. What other information should we be tracking for each?
 
 To suggest new additions or changes, please [open an issue](https://github.com/BrightCanopy/startup-tools/issues) or create a [pull request](https://github.com/BrightCanopy/startup-tools/compare). 
 
