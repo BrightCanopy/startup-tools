@@ -1,4 +1,4 @@
-# startup-tools
+# Startup Tools
 A list of companies and products that provide products and services specifically useful to startups and bootstrappers. This is a replacement for the "Cool Tools" folder in my browser bookmarks. I'll continue to migrate things in. Eventually this should be a long list. What other information should we be tracking for each? I'm hoping with collaboration, I'll learn of many I've never heard of before.
 
 To suggest new additions or changes, please [open an issue](https://github.com/BrightCanopy/startup-tools/issues) or create a [pull request](https://github.com/BrightCanopy/startup-tools/compare). 
