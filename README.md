@@ -1,6 +1,8 @@
 # Startup Tools
 A list of companies and products that provide products and services specifically useful to startups and bootstrappers. This is a replacement for the "Cool Tools" folder in my browser bookmarks. I'll continue to migrate things in. Eventually this should be a long list. What other information should we be tracking for each? I'm hoping with collaboration, I'll learn of many I've never heard of before.
 
+**Update** I've had some great input. Quite a bit in the form of other lists. I think I'm going to create a currated list of things I've either tried myself or have a dependable review from someone, along with some tips on how to use the particular tool to solve a problem. (I happen to know there's a startup out there doing this very thing, so maybe I can provide some inital input to that process for them.)
+
 To suggest new additions or changes, please [open an issue](https://github.com/BrightCanopy/startup-tools/issues) or create a [pull request](https://github.com/BrightCanopy/startup-tools/compare). 
 
  - [Amazon Web Services](https://aws.amazon.com) - The swiss army knife of cloud services. Does just about everything, but may not be the best tool for any one particular job.
@@ -9,6 +11,7 @@ To suggest new additions or changes, please [open an issue](https://github.com/B
  - [Google Apps](https://www.google.com/work/apps/business) - Collaborative documents, spreadsheets, email and more. Especially good for MVP serveys and even simple MVPs.
  - [Groove](https://www.groovehq.com/) - Streamlined desk software with a scalable pricing model.
  - [Heroku](https://www.heroku.com) - Cloud hosting (Ruby  Java  Node.js  Python  PHP Clojure  Scala) with lifecycle management and many plug-ins.
+ - [NearlyFreeSpeech.net] (nearlyfreespeech.net) - Low cost, git deployment friendly, pay-what-you-use hosting. Great I have used them for MVPs and know they handle some big production loads well.  
  - [Keen IO](https://keen.io/) - Analytics backend as a service.
  - [Prose IO](http://prose.io) - An editor for github markdown (useful for MVPs)
  - [QuickMVP](https://quickmvp.com) - Integrated landing page and Google Ads for rapid idea validation.
