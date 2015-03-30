@@ -14,6 +14,7 @@ To suggest new additions or changes, please [open an issue](https://github.com/B
  - [Instapage](http://www.instapage.com/) - Freemium Landing Page Builder with full A/B testing capabilities and a wordpress plugin. 
  - [NearlyFreeSpeech.net] (nearlyfreespeech.net) - Low cost, git deployment friendly, pay-what-you-use hosting. Great I have used them for MVPs and know they handle some big production loads well.  
  - [Keen IO](https://keen.io/) - Analytics backend as a service.
+ - [launch27](http://www.launch27.com/) - Generic booking engine for service businesses.
  - [Prose IO](http://prose.io) - An editor for github markdown (useful for MVPs)
  - [QuickMVP](https://quickmvp.com) - Integrated landing page and Google Ads for rapid idea validation.
  - [SalesIntelligent](https://SalesIntelligent.com) - Sales prospecting automation software.
