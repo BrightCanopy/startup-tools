@@ -1,6 +1,6 @@
 # Startup Tools
 
-## Everything you need build, measure and learn, so your idea can thrive and grow.
+## Everything you need to build, measure and learn, so your idea can thrive and grow.
 
 This is a curated list of products and services specifically useful to startups and bootstrappers.
 
