@@ -8,10 +8,12 @@ This is a replacement for the "Cool Tools" folder in my browser bookmarks. I'll 
 There is some redundancy here because one size doesn't always fit all, and there are sure to be gaps. Please suggest new additions or changes, by [opening an issue](https://github.com/BrightCanopy/startup-tools/issues) or creating a [pull request](https://github.com/BrightCanopy/startup-tools/compare). 
 
 ## Things I Can Recommend
-I have either used, or know someone who has used each of the services with great results. 
+
+I have either used, or know someone who has used each of the services with great results. (Any exceptions are noted inline).
+
  - [Amazon Web Services](https://aws.amazon.com) - The swiss army knife of cloud services. Does just about everything, but may not be the best tool for any one particular job. [Lambda](http://aws.amazon.com/lambda/) is especially interesting for a startup since it is pure pay-per-use.
  - [Clerky](https://www.clerky.com/) - Incorporation services with a very specific focus on startups which may eventually be VC funded.
-- [Dillinger](http://dillinger.io) - Open Source editor for github markdown (great for MVPs)
+ - [Dillinger](http://dillinger.io) - Open Source editor for github markdown (great for MVPs)
  - [DigitalOcean](https://www.digitalocean.com) - Cloud hosting based on Docker droplets.
  - [Google Apps](https://www.google.com/work/apps/business) - Collaborative documents, spreadsheets, email and more. Especially good for MVP surveys and even simple MVPs.
  - [Groove](https://www.groovehq.com/) - Streamlined desk software with a scalable pricing model.
@@ -23,13 +25,15 @@ I have either used, or know someone who has used each of the services with great
  - [launch27](http://www.launch27.com/) - Booking engine for local service businesses.
  - [Prose IO](http://prose.io) - An editor for github markdown (useful for MVPs)
  - [QuickMVP](https://quickmvp.com) - Integrated landing page and Google Ads for rapid idea validation.
- - [SalesIntelligent](https://SalesIntelligent.com) - Sales prospecting automation software. Useful for finding contacts within companies. 
  - [Slack](https://slack.com) - Team messaging, archiving and search with an automation api and bots.
  - [Stripe](https://stripe.com/) - Startup friendly payment processing with a powerful API.
- - [Survata](https://www.survata.com/) - Online surveys sent through their own network of content publishers. Useful to validate an idea.
  - [Zapier](https://zapier.com/) - Quick and easy API integration for stitching together MVPs or even production services.
- - [Zenefits](https://zenefits.com) - Health Insurance, Payroll, and other HR services.
 
+## Things I have not used but which look useful
+
+ - [SalesIntelligent](https://SalesIntelligent.com) - Sales prospecting automation software. Useful for finding contacts within companies. 
+ - [Survata](https://www.survata.com/) - Online surveys sent through their own network of content publishers. Useful to validate an idea. 
+ - [Zenefits](https://zenefits.com) - Health Insurance, Payroll, and other HR services.
 
 ## Other Lists
 
