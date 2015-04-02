@@ -1,14 +1,19 @@
 # Startup Tools
-A list of companies and products that provide products and services specifically useful to startups and bootstrappers. This is a replacement for the "Cool Tools" folder in my browser bookmarks. I'll continue to migrate things in. Eventually this should be a long list. What other information should we be tracking for each? I'm hoping with collaboration, I'll learn of many I've never heard of before.
 
-**Update** I've had some great input. Quite a bit in the form of other lists. I think I'm going to create a currated list of things I've either tried myself or have a dependable review from someone, along with some tips on how to use the particular tool to solve a problem. (I happen to know there's a startup out there doing this very thing, so maybe I can provide some inital input to that process for them.)
+This is a curated list of products and services specifically useful to startups and bootstrappers.
 
-To suggest new additions or changes, please [open an issue](https://github.com/BrightCanopy/startup-tools/issues) or create a [pull request](https://github.com/BrightCanopy/startup-tools/compare). 
+This is a replacement for the "Cool Tools" folder in my browser bookmarks. I'll continue to migrate things in. Eventually this should be a long list. What other information should we be tracking for each? I'm hoping with collaboration, I'll learn of many I've never heard of before.
 
- - [Amazon Web Services](https://aws.amazon.com) - The swiss army knife of cloud services. Does just about everything, but may not be the best tool for any one particular job.
+
+There is some redundancy here because one size doesn't always fit all, and there are sure to be gaps. Please suggest new additions or changes, by [opening an issue](https://github.com/BrightCanopy/startup-tools/issues) or creating a [pull request](https://github.com/BrightCanopy/startup-tools/compare). 
+
+## Things I Can Recommend
+I have either used, or know someone who has used each of the services with great results. 
+ - [Amazon Web Services](https://aws.amazon.com) - The swiss army knife of cloud services. Does just about everything, but may not be the best tool for any one particular job. [Lambda](http://aws.amazon.com/lambda/) is especially interesting for a startup since it is pure pay-per-use.
  - [Clerky](https://www.clerky.com/) - Incorporation services with a very specific focus on startups which may eventually be VC funded.
+- [Dillinger](http://dillinger.io) - Open Source editor for github markdown (great for MVPs)
  - [DigitalOcean](https://www.digitalocean.com) - Cloud hosting based on Docker droplets.
- - [Google Apps](https://www.google.com/work/apps/business) - Collaborative documents, spreadsheets, email and more. Especially good for MVP serveys and even simple MVPs.
+ - [Google Apps](https://www.google.com/work/apps/business) - Collaborative documents, spreadsheets, email and more. Especially good for MVP surveys and even simple MVPs.
  - [Groove](https://www.groovehq.com/) - Streamlined desk software with a scalable pricing model.
  - [Heroku](https://www.heroku.com) - Cloud hosting (Ruby  Java  Node.js  Python  PHP Clojure  Scala) with lifecycle management and many plug-ins.
  - [Instapage](http://www.instapage.com/) - Freemium Landing Page Builder with full A/B testing capabilities and a wordpress plugin. 
@@ -18,10 +23,10 @@ To suggest new additions or changes, please [open an issue](https://github.com/B
  - [launch27](http://www.launch27.com/) - Booking engine for local service businesses.
  - [Prose IO](http://prose.io) - An editor for github markdown (useful for MVPs)
  - [QuickMVP](https://quickmvp.com) - Integrated landing page and Google Ads for rapid idea validation.
- - [SalesIntelligent](https://SalesIntelligent.com) - Sales prospecting automation software.
+ - [SalesIntelligent](https://SalesIntelligent.com) - Sales prospecting automation software. Useful for finding contacts within companies. 
  - [Slack](https://slack.com) - Team messaging, archiving and search with an automation api and bots.
  - [Stripe](https://stripe.com/) - Startup friendly payment processing with a powerful API.
- - [Survata](https://www.survata.com/) - Online surveys sent through their own network of content publishers.
+ - [Survata](https://www.survata.com/) - Online surveys sent through their own network of content publishers. Useful to validate an idea.
  - [Zapier](https://zapier.com/) - Quick and easy API integration for stitching together MVPs or even production services.
  - [Zenefits](https://zenefits.com) - Health Insurance, Payroll, and other HR services.
 
