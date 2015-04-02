@@ -1,5 +1,7 @@
 # Startup Tools
 
+## Everything you need build, measure and learn, so your idea can thrive and grow.
+
 This is a curated list of products and services specifically useful to startups and bootstrappers.
 
 This is a replacement for the "Cool Tools" folder in my browser bookmarks. I'll continue to migrate things in. Eventually this should be a long list. What other information should we be tracking for each? I'm hoping with collaboration, I'll learn of many I've never heard of before.
