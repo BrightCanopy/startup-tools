@@ -32,7 +32,7 @@ I have either used, or know someone who has used each of the services with great
  - [Zapier](https://zapier.com/) - Quick and easy API integration for stitching together MVPs or even production services.
 
 ## Things I have not used but which look useful
-
+ - [Paddle](https://www.paddle.com) - Checkout + Tools "Everything you need to sell & manage apps and content." 
  - [SalesIntelligent](https://SalesIntelligent.com) - Sales prospecting automation software. Useful for finding contacts within companies. 
  - [Survata](https://www.survata.com/) - Online surveys sent through their own network of content publishers. Useful to validate an idea. 
  - [Zenefits](https://zenefits.com) - Health Insurance, Payroll, and other HR services.
@@ -40,6 +40,7 @@ I have either used, or know someone who has used each of the services with great
 ## Other Lists
 
 Helpful folks have pointed me to other lists already out there. Here are the ones I know about.
+ - [Startup Care Package](http://startups.paddle.com/) - From the folks at [Paddle](https://paddle.com) This is not just a list, but a whole package of discounts on things like [Digital Ocean](https://www.digitalocean.com) and [Zapier](https://zapier.com)
  - [HN Tools of The Trade, 2014 Edition](https://github.com/cjbarber/ToolsOfTheTrade) ~700 entries
  - [Steve Blank's List](http://steveblank.com/tools-and-blogs-for-entrepreneurs/) mostly information and groups 
  - [Inc's List](http://www.inc.com/jeff-haden/60-great-tools-and-resources-for-entrepreneurs-and-startups.html) ~30 entries
