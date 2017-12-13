@@ -35,6 +35,7 @@ I have either used, or know someone who has used each of the services with great
  - [Paddle](https://www.paddle.com) - Checkout + Tools "Everything you need to sell & manage apps and content." 
  - [SalesIntelligent](https://SalesIntelligent.com) - Sales prospecting automation software. Useful for finding contacts within companies. 
  - [Survata](https://www.survata.com/) - Online surveys sent through their own network of content publishers. Useful to validate an idea. 
+  - [Taskade](https://taskade.com/) - Collaborative task lists and outlines for teams.
  - [Xtensio](http://xtensio.com/) - Online page builder and startup specific tools (e.g. Lean Canvas Creator, Persona profiles and more)
  - [Zenefits](https://zenefits.com) - Health Insurance, Payroll, and other HR services.
 
